@@ -1,0 +1,47 @@
+body{
+    color: white;
+    margin: 0;
+    
+}
+h1{
+    background-color: green;
+    padding: 5px;
+    margin-top: 0;
+}
+
+input{
+    width: 80px;
+    height: 35px;
+    transform: translate(550px,-65px);
+    font-size: 30px;
+    color: green;
+    text-align: center;
+}
+button{
+    transform: translate(55px,0px);
+    width: 180px;
+    height: 40px;
+    font-size: 20px;
+    border: 1px solid green;
+    color: white;
+    background-color: green;
+    margin: 5px;
+}
+div{
+    width: 370px;
+    height: 380px;
+    color:green;
+    text-align: center;
+    border: 2px solid green;
+    margin: auto;
+    margin-bottom: -20px;
+    transform: translateY(10px);
+}
+p{
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    margin-bottom: -10px;
+    border: 1px solid white;
+    font-weight: 900;
+}
